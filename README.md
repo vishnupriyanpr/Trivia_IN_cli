@@ -3,10 +3,10 @@
 
 # 🎯 Trivia _ IN _ Cli - Ultimate CLI Edition
 
-[![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JDBC](https://img.shields.io/badge/JDBC-API-green?style=for-the-badge)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-17+-ED8B00?&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JDBC](https://img.shields.io/badge/JDBC-API-green?)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?)](LICENSE)
 
 **A powerful, feature-rich quiz platform with stunning CLI interface that rivals any GUI!**
 
